@@ -1,6 +1,10 @@
 buildscript {
     ext.kotlin_version = '1.6.10'
     repositories {
+        maven {
+            url "http://download.flutter.io"
+            allowInsecureProtocol = true
+        }
         google()
         mavenCentral()
     }
@@ -13,6 +17,10 @@ buildscript {
 
 allprojects {
     repositories {
+        maven {
+            url "http://download.flutter.io"
+            allowInsecureProtocol = true
+        }
         google()
         mavenCentral()
     }
@@ -26,6 +34,6 @@ subprojects {
     project.evaluationDependsOn(':app')
 }
 
-task clean(type: Delete) {
+tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
