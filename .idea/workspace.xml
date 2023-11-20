@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ec1f3c-fa13-438d-9c9d-a3216dd56389" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chat_app/lib/login_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_app/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/chat_app/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_app/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chat_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat_app/lib/chat_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_app/analysis_options.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/chat_app/analysis_options.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_app/lib/login_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chat_app/lib/login_page.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chat_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chat_app/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -52,23 +60,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2UoBb96MMYf0WTbtFJ9vwtH33eB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/src/flutter/LinkedIn/forked-learning-flutter-3009709&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "C:/src/flutter/LinkedIn/forked-learning-flutter-3009709",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/chat_app/lib/main.dart" />
@@ -97,7 +109,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/03_01_b" />
+                        <option value="origin/03_02_b" />
                       </list>
                     </value>
                   </entry>
